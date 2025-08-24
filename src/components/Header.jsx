@@ -27,7 +27,7 @@ export default function Header({
             <div className="container header-container">
                 <a href="/" className="link">
                     <h1>
-                        <img className="nav-logo" src={logo} alt="Real Bharat News" />
+                        <img className="nav-logo" src={logo} alt="News 4 Yoy" />
                     </h1>
                 </a>
                 <div className="header-right">
@@ -70,4 +70,5 @@ export default function Header({
             </div>
         </header>
     );
+
 }
