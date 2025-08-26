@@ -682,7 +682,7 @@ footer {
 }
 
 .nav-logo {
-    height: 50px;
+    height: 70px;
     width: auto;
     padding-top: 10px;
 }
@@ -772,4 +772,5 @@ footer {
 
 .link {
     text-decoration: none;
+
 }
